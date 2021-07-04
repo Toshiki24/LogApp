@@ -1,0 +1,17 @@
+C:\Users\Toshi\source\repos\LogApp\obj\Debug\LogApp.csprojAssemblyReference.cache
+C:\Users\Toshi\source\repos\LogApp\obj\Debug\LogApp.Form1.resources
+C:\Users\Toshi\source\repos\LogApp\obj\Debug\LogApp.Properties.Resources.resources
+C:\Users\Toshi\source\repos\LogApp\obj\Debug\LogApp.csproj.GenerateResource.cache
+C:\Users\Toshi\source\repos\LogApp\obj\Debug\LogApp.csproj.CoreCompileInputs.cache
+C:\Users\Toshi\source\repos\LogApp\bin\Debug\LogApp.exe.config
+C:\Users\Toshi\source\repos\LogApp\bin\Debug\LogApp.exe
+C:\Users\Toshi\source\repos\LogApp\bin\Debug\LogApp.pdb
+C:\Users\Toshi\source\repos\LogApp\obj\Debug\LogApp.Form2.resources
+C:\Users\Toshi\source\repos\LogApp\obj\Debug\LogApp.exe
+C:\Users\Toshi\source\repos\LogApp\obj\Debug\LogApp.pdb
+C:\Users\Toshi\Desktop\新しいフォルダー (3)\LogApp.exe.config
+C:\Users\Toshi\Desktop\新しいフォルダー (3)\LogApp.exe
+C:\Users\Toshi\Desktop\新しいフォルダー (3)\LogApp.pdb
+C:\Users\Toshi\Desktop\new\LogApp.exe.config
+C:\Users\Toshi\Desktop\new\LogApp.exe
+C:\Users\Toshi\Desktop\new\LogApp.pdb
